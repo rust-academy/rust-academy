@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rust-academy
-- 👀 I’m interested in rust programming 
+- 👀 I’m interested in everthing rust programming
 - 🌱 I’m helping people to learn rust 
 
 <!---
